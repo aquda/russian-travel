@@ -1,5 +1,5 @@
 .cover__link {
-  padding-top: 62.5%; 
+  padding-top: 62.5%;
   display: flex;
   position: relative;
   flex-direction: column;
@@ -27,4 +27,4 @@
 
 .cover__link:hover:before {
   opacity: 1;
-} 
+}
